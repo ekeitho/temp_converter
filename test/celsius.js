@@ -4,9 +4,7 @@ describe("celsius tests", function ()
    var expect = require("chai").expect;
 
    it("true tests", function() {
-    
-      expect(convert("c", 1)).to.equal(72);
-   
+      expect(convert("c", 10).toFixed(2)).to.equal('75.60'); 
    });
 
 });
