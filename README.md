@@ -1,4 +1,4 @@
-temp_converter
-==============
+#v0.0.1
 
-Convert from Fahrenheit to Celsius. Vice Versa. 
+### tempconvert  [![Build Status](https://travis-ci.org/ekeitho/temp_converter.svg?branch=master)](https://travis-ci.org/ekeitho/temp_converter)
+
