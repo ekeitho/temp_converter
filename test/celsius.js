@@ -1,9 +1,12 @@
 describe("celsius tests", function ()
 {
-   var convert = require("../converter").converter;
+   var convert = require("../convert").converter;
    var expect = require("chai").expect;
 
    it("true tests", function() {
-      expect(convert("c", 32).to.equal(93.6)); 
+    
+      expect(convert("c", 1)).to.equal(75.6);
+   
    });
+
 });
