@@ -1,9 +1,8 @@
 {
-  "name":       "convert",
+  "name":       "temp_convert",
   "author":     "ekeitho",
-  "repository":
-  {
-    "type: "git",
+  "repository": {
+    "type": "git",
     "url": "http://github.com/ekeitho/temp_converter"
   },
   "devDependencies": {
