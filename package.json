@@ -1,6 +1,15 @@
 {
   "name":       "convert",
   "author":     "ekeitho",
+  "repository":
+  {
+    "type: "git",
+    "url": "http://github.com/ekeitho/temp_converter"
+  },
+  "devDependencies": {
+    "mocha": "=1.21.4",
+    "chai": "=1.9.1"
+  },
   "scripts": {
     "test" : "mocha -R spec test/*.js"
   }
