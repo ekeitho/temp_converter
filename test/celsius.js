@@ -5,7 +5,7 @@ describe("celsius tests", function ()
 
    it("true tests", function() {
     
-      expect(convert("c", 1)).to.equal(75.6);
+      expect(convert("c", 1)).to.equal(72);
    
    });
 
