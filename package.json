@@ -1,0 +1,7 @@
+{
+  "name":       "convert",
+  "author":     "ekeitho",
+  "scripts": {
+    "test" : "mocha -R spec test/*.js"
+  }
+}
